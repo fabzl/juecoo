@@ -1,5 +1,5 @@
 @font-face{ 
-	font-family: 'MyWebFont';
+	font-family: 'bungee';
 	src: url('WebFont.eot');
 	src: url('WebFont.eot?iefix') format('eot'),
 	     url('WebFont.woff') format('woff'),
@@ -8,9 +8,8 @@
 }
 
 
-
 .splash {
-	
+	background-color: #F2C85F;
 }
 .ques1 {}
 .ques2 {}
@@ -29,15 +28,18 @@
 	width: 	100vw;
 	height:	100vh;
 	display: flex;
+	justify-content: center;
 }
 
 .splash-ilust {
     width: 100%;
     height: 100%;
-    
 }
 
-
+body {
+	margin: 0;
+	padding:0;
+}
 
 
 
