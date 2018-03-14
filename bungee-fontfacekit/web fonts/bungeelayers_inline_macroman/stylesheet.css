@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bungee_layersinline';
+    src: url('BungeeLayers-Inline-webfont.eot');
+    src: url('BungeeLayers-Inline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BungeeLayers-Inline-webfont.woff2') format('woff2'),
+         url('BungeeLayers-Inline-webfont.woff') format('woff'),
+         url('BungeeLayers-Inline-webfont.ttf') format('truetype'),
+         url('BungeeLayers-Inline-webfont.svg#bungee_layersinline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

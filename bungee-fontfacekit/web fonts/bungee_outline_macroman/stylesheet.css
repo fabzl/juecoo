@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bungeeoutline';
+    src: url('Bungee-Outline-webfont.eot');
+    src: url('Bungee-Outline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bungee-Outline-webfont.woff2') format('woff2'),
+         url('Bungee-Outline-webfont.woff') format('woff'),
+         url('Bungee-Outline-webfont.ttf') format('truetype'),
+         url('Bungee-Outline-webfont.svg#bungeeoutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

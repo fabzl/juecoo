@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bungee_layers_rotatedoutline';
+    src: url('BungeeLayersRotated-Outline-webfont.eot');
+    src: url('BungeeLayersRotated-Outline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BungeeLayersRotated-Outline-webfont.woff2') format('woff2'),
+         url('BungeeLayersRotated-Outline-webfont.woff') format('woff'),
+         url('BungeeLayersRotated-Outline-webfont.ttf') format('truetype'),
+         url('BungeeLayersRotated-Outline-webfont.svg#bungee_layers_rotatedoutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

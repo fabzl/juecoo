@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bungee_layers_rotatedshade';
+    src: url('BungeeLayersRotated-Shade-webfont.eot');
+    src: url('BungeeLayersRotated-Shade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BungeeLayersRotated-Shade-webfont.woff2') format('woff2'),
+         url('BungeeLayersRotated-Shade-webfont.woff') format('woff'),
+         url('BungeeLayersRotated-Shade-webfont.ttf') format('truetype'),
+         url('BungeeLayersRotated-Shade-webfont.svg#bungee_layers_rotatedshade') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bungee_layersshade';
+    src: url('BungeeLayers-Shade-webfont.eot');
+    src: url('BungeeLayers-Shade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BungeeLayers-Shade-webfont.woff2') format('woff2'),
+         url('BungeeLayers-Shade-webfont.woff') format('woff'),
+         url('BungeeLayers-Shade-webfont.ttf') format('truetype'),
+         url('BungeeLayers-Shade-webfont.svg#bungee_layersshade') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
