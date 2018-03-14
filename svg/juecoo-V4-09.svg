@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2C85F;}
+	.st1{fill:#F2D3AD;}
+	.st2{fill:#674C91;}
+	.st3{fill:#DCFFC5;}
+	.st4{fill:#8BAA77;}
+	.st5{clip-path:url(#SVGID_2_);fill:#F1F3F7;}
+	.st6{opacity:0.4;clip-path:url(#SVGID_2_);fill:#DCDDE0;}
+	.st7{clip-path:url(#SVGID_2_);fill:#0076B7;}
+	.st8{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st9{clip-path:url(#SVGID_2_);}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#F7CFA2;}
+	.st12{fill:#ECB8FF;}
+	.st13{fill:#393D47;}
+	.st14{fill:#E86767;}
+	.st15{opacity:0.1;fill:#3C2813;}
+	.st16{fill:#EEEBE7;}
+	.st17{fill:#3C2813;}
+	.st18{fill:#795ACC;}
+	.st19{fill:none;}
+	.st20{fill:#601515;}
+	.st21{clip-path:url(#SVGID_6_);fill:#F7EFDF;}
+	.st22{fill:#3EBA50;}
+	.st23{display:none;opacity:0.3;}
+	.st24{fill:#F7EFDF;}
+	.st25{fill:#4E9FA8;}
+	.st26{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st27{fill:#231F20;}
+	.st28{fill:none;stroke:#674C91;stroke-miterlimit:10;}
+	.st29{fill:#3FBA51;}
+	.st30{font-family:'ElegantLux-Mager';}
+	.st31{font-size:26px;}
+	.st32{font-family:'Bungee-Regular';}
+	.st33{font-size:22px;}
+	.st34{fill:#601515;stroke:#601515;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#601515;stroke-miterlimit:10;}
+	.st36{font-size:19px;}
+	.st37{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st38{fill:url(#SVGID_9_);}
+	.st39{fill:#601515;stroke:#8C8779;stroke-width:6;stroke-miterlimit:10;}
+	.st40{fill:url(#SVGID_10_);}
+	.st41{fill:none;stroke:#4E9FA8;stroke-width:12;stroke-miterlimit:10;}
+	.st42{fill:#E0EA18;}
+	.st43{clip-path:url(#SVGID_12_);fill:#F7EFDF;}
+	.st44{fill:url(#SVGID_13_);}
+	.st45{fill:url(#SVGID_14_);}
+	.st46{fill:#EFEA35;}
+	.st47{fill:url(#SVGID_15_);}
+	.st48{fill:url(#SVGID_16_);}
+	.st49{fill:url(#SVGID_17_);}
+	.st50{fill:url(#SVGID_18_);}
+	.st51{fill:url(#SVGID_19_);}
+	.st52{fill:#C1C1B8;}
+	.st53{fill:#9B9B97;}
+	.st54{fill:#D8D8D2;}
+	.st55{opacity:0.4;}
+	.st56{opacity:0.6;}
+	.st57{fill:#CEBABA;}
+	.st58{fill:#EAEAE5;}
+	.st59{fill:url(#SVGID_20_);}
+	.st60{fill:url(#SVGID_21_);}
+	.st61{fill:url(#SVGID_22_);}
+	.st62{fill:url(#SVGID_23_);}
+	.st63{fill:url(#SVGID_24_);}
+	.st64{fill:url(#SVGID_25_);}
+	.st65{fill:url(#SVGID_26_);}
+	.st66{fill:url(#SVGID_27_);}
+	.st67{fill:url(#SVGID_28_);}
+	.st68{fill:#6BA8B2;}
+	.st69{fill:#F1F3F7;}
+	.st70{fill:#F0BA7A;}
+	.st71{opacity:0.4;fill:#DCDDE0;}
+	.st72{fill:#0076B7;}
+	.st73{opacity:0.3;}
+	.st74{fill:#DCDDE0;}
+	.st75{fill:#004868;}
+	.st76{opacity:0.1;fill:#601515;}
+	.st77{fill:#F9F9F9;}
+	.st78{fill:#24272D;}
+	.st79{fill:#EA6D50;}
+	.st80{clip-path:url(#SVGID_30_);fill:#F0BA7A;}
+	.st81{clip-path:url(#SVGID_30_);fill:#F1F3F7;}
+	.st82{opacity:0.4;clip-path:url(#SVGID_30_);fill:#DCDDE0;}
+	.st83{clip-path:url(#SVGID_30_);fill:#0076B7;}
+	.st84{clip-path:url(#SVGID_30_);fill:#FFFFFF;}
+	.st85{clip-path:url(#SVGID_30_);}
+	.st86{opacity:0.3;fill:#601515;}
+	.st87{fill:#5B1010;}
+	.st88{clip-path:url(#SVGID_32_);fill:#F1F3F7;}
+	.st89{clip-path:url(#SVGID_32_);fill:#F0BA7A;}
+	.st90{opacity:0.4;clip-path:url(#SVGID_32_);fill:#DCDDE0;}
+	.st91{clip-path:url(#SVGID_32_);fill:#0076B7;}
+	.st92{clip-path:url(#SVGID_32_);fill:#FFFFFF;}
+	.st93{clip-path:url(#SVGID_32_);}
+	.st94{fill:#1F74C9;}
+	.st95{fill:#595959;}
+	.st96{opacity:0.1;fill:#8BAA77;}
+	.st97{opacity:0.3;fill:#8BAA77;}
+	.st98{opacity:0.1;fill:#595959;}
+	.st99{opacity:0.3;fill:#595959;}
+	.st100{fill:#9E921E;}
+	.st101{clip-path:url(#SVGID_34_);fill:#F0BA7A;}
+	.st102{clip-path:url(#SVGID_34_);fill:#F1F3F7;}
+	.st103{clip-path:url(#SVGID_34_);}
+	.st104{clip-path:url(#SVGID_34_);fill:#393D47;}
+	.st105{clip-path:url(#SVGID_34_);fill:#FFFFFF;}
+	.st106{opacity:0.4;clip-path:url(#SVGID_34_);fill:#DCDDE0;}
+	.st107{clip-path:url(#SVGID_34_);fill:#0076B7;}
+	.st108{fill:#B72C34;}
+	.st109{clip-path:url(#SVGID_36_);fill:#F1F3F7;}
+	.st110{clip-path:url(#SVGID_36_);}
+	.st111{clip-path:url(#SVGID_38_);fill:#F1F3F7;}
+	.st112{opacity:0.4;clip-path:url(#SVGID_38_);fill:#DCDDE0;}
+	.st113{clip-path:url(#SVGID_38_);fill:#0076B7;}
+	.st114{clip-path:url(#SVGID_38_);fill:#FFFFFF;}
+	.st115{clip-path:url(#SVGID_38_);}
+	.st116{fill:url(#SVGID_39_);}
+	.st117{fill:url(#SVGID_40_);}
+	.st118{fill:url(#SVGID_41_);}
+	.st119{fill:url(#SVGID_42_);}
+	.st120{fill:#A52323;}
+	.st121{clip-path:url(#SVGID_44_);fill:#F1F3F7;}
+	.st122{opacity:0.4;clip-path:url(#SVGID_44_);fill:#DCDDE0;}
+	.st123{clip-path:url(#SVGID_44_);fill:#0076B7;}
+	.st124{clip-path:url(#SVGID_44_);fill:#FFFFFF;}
+	.st125{clip-path:url(#SVGID_44_);}
+	.st126{fill:#023142;}
+	.st127{clip-path:url(#SVGID_46_);fill:#F7CFA2;}
+	.st128{clip-path:url(#SVGID_46_);}
+	.st129{opacity:0.3;fill:#E57257;}
+	.st130{opacity:0.2;}
+	.st131{fill:#656D60;}
+	.st132{clip-path:url(#SVGID_48_);fill:#F0BA7A;}
+	.st133{clip-path:url(#SVGID_48_);fill:#F1F3F7;}
+	.st134{opacity:0.4;clip-path:url(#SVGID_48_);fill:#DCDDE0;}
+	.st135{clip-path:url(#SVGID_48_);fill:#0076B7;}
+	.st136{clip-path:url(#SVGID_48_);fill:#FFFFFF;}
+	.st137{clip-path:url(#SVGID_48_);}
+	.st138{clip-path:url(#SVGID_50_);fill:#F1F3F7;}
+	.st139{opacity:0.4;clip-path:url(#SVGID_50_);fill:#DCDDE0;}
+	.st140{clip-path:url(#SVGID_50_);fill:#0076B7;}
+	.st141{clip-path:url(#SVGID_50_);fill:#FFFFFF;}
+	.st142{clip-path:url(#SVGID_50_);}
+	.st143{clip-path:url(#SVGID_52_);fill:#F1F3F7;}
+	.st144{opacity:0.4;clip-path:url(#SVGID_52_);fill:#DCDDE0;}
+	.st145{clip-path:url(#SVGID_52_);fill:#0076B7;}
+	.st146{clip-path:url(#SVGID_52_);fill:#FFFFFF;}
+	.st147{clip-path:url(#SVGID_52_);}
+	.st148{fill:#9E9E9E;}
+	.st149{fill:#878787;}
+	.st150{fill:url(#SVGID_53_);}
+	.st151{fill:#CE6117;}
+	.st152{fill:url(#SVGID_54_);}
+	.st153{fill:#EFE91B;}
+	.st154{clip-path:url(#SVGID_56_);fill:#F0BA7A;}
+	.st155{clip-path:url(#SVGID_56_);fill:#F1F3F7;}
+	.st156{opacity:0.4;clip-path:url(#SVGID_56_);fill:#DCDDE0;}
+	.st157{clip-path:url(#SVGID_56_);fill:#0076B7;}
+	.st158{clip-path:url(#SVGID_56_);fill:#FFFFFF;}
+	.st159{clip-path:url(#SVGID_56_);}
+	.st160{fill:#B27E49;}
+	.st161{clip-path:url(#SVGID_58_);fill:#F1F3F7;}
+	.st162{opacity:0.4;clip-path:url(#SVGID_58_);fill:#DCDDE0;}
+	.st163{clip-path:url(#SVGID_58_);fill:#0076B7;}
+	.st164{clip-path:url(#SVGID_58_);fill:#FFFFFF;}
+	.st165{clip-path:url(#SVGID_58_);}
+	.st166{fill:#8454D1;}
+	.st167{clip-path:url(#SVGID_60_);fill:#393D47;}
+	.st168{clip-path:url(#SVGID_60_);fill:#F0BA7A;}
+	.st169{clip-path:url(#SVGID_60_);fill:#F1F3F7;}
+	.st170{clip-path:url(#SVGID_60_);fill:#0076B7;}
+	.st171{clip-path:url(#SVGID_60_);fill:#004868;}
+	.st172{opacity:0.4;clip-path:url(#SVGID_60_);fill:#DCDDE0;}
+	.st173{clip-path:url(#SVGID_60_);fill:#FFFFFF;}
+	.st174{clip-path:url(#SVGID_60_);}
+	.st175{fill:none;stroke:#EA6D50;stroke-width:2;stroke-miterlimit:10;}
+	.st176{fill:url(#SVGID_61_);}
+	.st177{fill:#777777;}
+	.st178{fill:#A85848;}
+	.st179{fill:#E85646;}
+	.st180{fill:#EA4E39;}
+	.st181{clip-path:url(#SVGID_63_);fill:#F1F3F7;}
+	.st182{clip-path:url(#SVGID_63_);}
+	.st183{fill:#B23C18;}
+	.st184{fill:#6B2A05;}
+	.st185{fill:#B23C18;stroke:#6B2A05;stroke-miterlimit:10;}
+	.st186{fill:#DDAA78;}
+	.st187{fill:#211205;}
+	.st188{fill:none;stroke:#6B2A05;stroke-width:0.729;stroke-miterlimit:10;}
+	.st189{fill:#B23C18;stroke:#6B2A05;stroke-width:0.729;stroke-miterlimit:10;}
+	.st190{fill:#BBE8F2;}
+	.st191{opacity:0.3;fill:#F2F8F9;}
+	.st192{opacity:0.2;fill:#601515;}
+	.st193{fill:#FFFF00;}
+	.st194{fill:#594EEA;}
+	.st195{fill:#FF0B0B;}
+	.st196{fill:none;stroke:#3FBA51;stroke-width:8;stroke-miterlimit:10;}
+	.st197{fill:none;stroke:#3FBA51;stroke-width:7.2;stroke-miterlimit:10;}
+	.st198{fill:none;stroke:#3FBA51;stroke-width:7.2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st199{fill:none;stroke:#3FBA51;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;}
+	.st200{fill:none;stroke:#3FBA51;stroke-width:5.1175;stroke-miterlimit:10;}
+	.st201{fill:#4F5565;}
+	.st202{fill:#D64E3C;}
+	.st203{fill:#F7A500;}
+	.st204{fill:#FBD303;}
+	.st205{fill:#FCFCFD;}
+	.st206{fill:#F8B517;}
+	.st207{fill:#F0582F;}
+	.st208{fill:#BAE8F2;}
+	.st209{fill:#F7EA72;}
+	.st210{clip-path:url(#SVGID_65_);fill:#F7EFDF;}
+	.st211{fill:none;stroke:#3FBA51;stroke-width:6.4304;stroke-miterlimit:10;}
+	.st212{fill:url(#SVGID_66_);}
+	.st213{fill:url(#SVGID_67_);}
+	.st214{fill:url(#SVGID_68_);}
+	.st215{fill:url(#SVGID_69_);}
+	.st216{fill:url(#SVGID_70_);}
+	.st217{fill:url(#SVGID_71_);}
+	.st218{fill:url(#SVGID_72_);}
+	.st219{fill:url(#SVGID_73_);}
+	.st220{fill:url(#SVGID_74_);}
+	.st221{fill:url(#SVGID_75_);}
+	.st222{fill:url(#SVGID_76_);}
+	.st223{fill:url(#SVGID_77_);}
+	.st224{fill:url(#SVGID_78_);}
+	.st225{fill:url(#SVGID_79_);}
+	.st226{fill:url(#SVGID_80_);}
+	.st227{fill:url(#SVGID_81_);}
+	.st228{fill:url(#SVGID_82_);}
+	.st229{fill:url(#SVGID_83_);}
+	.st230{fill:url(#SVGID_84_);}
+	.st231{fill:url(#SVGID_85_);}
+	.st232{fill:url(#SVGID_86_);}
+	.st233{fill:url(#SVGID_87_);}
+	.st234{fill:url(#SVGID_88_);}
+	.st235{fill:url(#SVGID_89_);}
+	.st236{fill:url(#SVGID_90_);}
+	.st237{fill:url(#SVGID_91_);}
+	.st238{fill:url(#SVGID_92_);}
+	.st239{fill:url(#SVGID_93_);}
+	.st240{fill:url(#SVGID_94_);}
+	.st241{fill:url(#SVGID_95_);}
+	.st242{fill:url(#SVGID_96_);}
+	.st243{fill:url(#SVGID_97_);}
+	.st244{fill:url(#SVGID_98_);}
+	.st245{fill:url(#SVGID_99_);}
+	.st246{fill:url(#SVGID_100_);}
+	.st247{fill:url(#SVGID_101_);}
+	.st248{opacity:0.7;fill:#7BCDDB;}
+	.st249{fill:none;stroke:#F0BA7A;stroke-width:3;stroke-miterlimit:10;}
+	.st250{fill:none;stroke:#601515;stroke-width:2;stroke-miterlimit:10;}
+	.st251{fill:url(#SVGID_102_);}
+	.st252{fill:url(#SVGID_103_);}
+	.st253{fill:url(#SVGID_104_);}
+	.st254{fill:url(#SVGID_105_);}
+	.st255{fill:url(#SVGID_106_);}
+	.st256{fill:url(#SVGID_107_);}
+	.st257{fill:url(#SVGID_108_);}
+	.st258{opacity:0.5;fill:#302929;}
+	.st259{fill:#EF3F50;}
+	.st260{fill:url(#SVGID_109_);}
+	.st261{fill:url(#SVGID_110_);}
+	.st262{fill:url(#SVGID_111_);}
+	.st263{fill:url(#SVGID_112_);}
+	.st264{opacity:0.6;fill:#302929;}
+	.st265{fill:url(#SVGID_113_);}
+	.st266{fill:url(#SVGID_114_);}
+	.st267{fill:url(#SVGID_115_);}
+	.st268{fill:url(#SVGID_116_);}
+	.st269{fill:url(#SVGID_117_);}
+	.st270{fill:url(#SVGID_118_);}
+	.st271{fill:url(#SVGID_119_);}
+	.st272{fill:url(#SVGID_120_);}
+	.st273{fill:url(#SVGID_121_);}
+	.st274{fill:url(#SVGID_122_);}
+	.st275{fill:url(#SVGID_123_);}
+	.st276{fill:url(#SVGID_124_);}
+	.st277{fill:url(#SVGID_125_);}
+	.st278{fill:url(#SVGID_126_);}
+	.st279{fill:url(#SVGID_127_);}
+	.st280{fill:url(#SVGID_128_);}
+	.st281{fill:url(#SVGID_129_);}
+	.st282{fill:url(#SVGID_130_);}
+	.st283{fill:url(#SVGID_131_);}
+	.st284{fill:url(#SVGID_132_);}
+	.st285{fill:url(#SVGID_133_);}
+	.st286{fill:url(#SVGID_134_);}
+	.st287{fill:url(#SVGID_135_);}
+	.st288{fill:url(#SVGID_136_);}
+	.st289{fill:url(#SVGID_137_);}
+	.st290{fill:url(#SVGID_138_);}
+	.st291{fill:url(#SVGID_139_);}
+	.st292{fill:url(#SVGID_140_);}
+	.st293{fill:url(#SVGID_141_);}
+	.st294{fill:url(#SVGID_142_);}
+	.st295{fill:url(#SVGID_143_);}
+	.st296{fill:url(#SVGID_144_);}
+	.st297{fill:url(#SVGID_145_);}
+	.st298{fill:url(#SVGID_146_);}
+	.st299{fill:url(#SVGID_147_);}
+	.st300{fill:url(#SVGID_148_);}
+	.st301{fill:url(#SVGID_149_);}
+	.st302{fill:url(#SVGID_150_);}
+	.st303{fill:url(#SVGID_151_);}
+	.st304{fill:url(#SVGID_152_);}
+	.st305{fill:url(#SVGID_153_);}
+	.st306{fill:url(#SVGID_154_);}
+	.st307{fill:url(#SVGID_155_);}
+	.st308{fill:url(#SVGID_156_);}
+	.st309{fill:url(#SVGID_157_);}
+	.st310{fill:url(#SVGID_158_);}
+	.st311{fill:url(#SVGID_159_);}
+	.st312{fill:url(#SVGID_160_);}
+	.st313{fill:url(#SVGID_161_);}
+	.st314{fill:url(#SVGID_162_);}
+	.st315{fill:url(#SVGID_163_);}
+	.st316{fill:url(#SVGID_164_);}
+	.st317{fill:url(#SVGID_165_);}
+	.st318{fill:url(#SVGID_166_);}
+	.st319{fill:url(#SVGID_167_);}
+	.st320{fill:url(#SVGID_168_);}
+	.st321{fill:url(#SVGID_169_);}
+	.st322{fill:url(#SVGID_170_);}
+	.st323{fill:url(#SVGID_171_);}
+	.st324{fill:url(#SVGID_172_);}
+	.st325{fill:url(#SVGID_173_);}
+	.st326{fill:url(#SVGID_174_);}
+	.st327{fill:url(#SVGID_175_);}
+	.st328{fill:url(#SVGID_176_);}
+	.st329{fill:url(#SVGID_177_);}
+	.st330{fill:url(#SVGID_178_);}
+	.st331{fill:url(#SVGID_179_);}
+	.st332{fill:url(#SVGID_180_);}
+	.st333{fill:url(#SVGID_181_);}
+	.st334{fill:url(#SVGID_182_);}
+	.st335{fill:url(#SVGID_183_);}
+	.st336{fill:url(#SVGID_184_);}
+	.st337{fill:url(#SVGID_185_);}
+	.st338{fill:url(#SVGID_186_);}
+	.st339{fill:url(#SVGID_187_);}
+	.st340{fill:url(#SVGID_188_);}
+	.st341{fill:url(#SVGID_189_);}
+	.st342{fill:url(#SVGID_190_);}
+	.st343{fill:url(#SVGID_191_);}
+	.st344{fill:url(#SVGID_192_);}
+	.st345{fill:url(#SVGID_193_);}
+	.st346{fill:url(#SVGID_194_);}
+	.st347{fill:url(#SVGID_195_);}
+	.st348{fill:url(#SVGID_196_);}
+	.st349{fill:url(#SVGID_197_);}
+	.st350{fill:url(#SVGID_198_);}
+	.st351{fill:url(#SVGID_199_);}
+	.st352{fill:url(#SVGID_200_);}
+	.st353{fill:url(#SVGID_201_);}
+	.st354{fill:url(#SVGID_202_);}
+	.st355{fill:url(#SVGID_203_);}
+	.st356{fill:url(#SVGID_204_);}
+	.st357{fill:url(#SVGID_205_);}
+	.st358{fill:url(#SVGID_206_);}
+	.st359{fill:url(#SVGID_207_);}
+	.st360{fill:url(#SVGID_208_);}
+	.st361{fill:url(#SVGID_209_);}
+	.st362{fill:url(#SVGID_210_);}
+	.st363{fill:url(#SVGID_211_);}
+	.st364{fill:url(#SVGID_212_);}
+	.st365{fill:url(#SVGID_213_);}
+	.st366{fill:url(#SVGID_214_);}
+	.st367{fill:url(#SVGID_215_);}
+	.st368{fill:url(#SVGID_216_);}
+	.st369{fill:url(#SVGID_217_);}
+	.st370{fill:url(#SVGID_218_);}
+	.st371{fill:url(#SVGID_219_);}
+	.st372{fill:url(#SVGID_220_);}
+	.st373{fill:url(#SVGID_221_);}
+	.st374{fill:url(#SVGID_222_);}
+	.st375{fill:url(#SVGID_223_);}
+	.st376{fill:url(#SVGID_224_);}
+	.st377{fill:url(#SVGID_225_);}
+	.st378{fill:url(#SVGID_226_);}
+	.st379{fill:url(#SVGID_227_);}
+	.st380{fill:url(#SVGID_228_);}
+	.st381{fill:url(#SVGID_229_);}
+	.st382{fill:url(#SVGID_230_);}
+	.st383{fill:url(#SVGID_231_);}
+	.st384{fill:url(#SVGID_232_);}
+	.st385{fill:url(#SVGID_233_);}
+	.st386{fill:url(#SVGID_234_);}
+	.st387{fill:url(#SVGID_235_);}
+	.st388{fill:url(#SVGID_236_);}
+	.st389{fill:url(#SVGID_237_);}
+	.st390{fill:url(#SVGID_238_);}
+	.st391{fill:url(#SVGID_239_);}
+	.st392{fill:none;stroke:#9B9B97;stroke-miterlimit:10;}
+	.st393{fill:url(#SVGID_240_);}
+	.st394{fill:url(#SVGID_241_);}
+	.st395{fill:url(#SVGID_242_);}
+	.st396{fill:url(#SVGID_243_);}
+	.st397{fill:url(#SVGID_244_);}
+	.st398{fill:url(#SVGID_245_);}
+	.st399{fill:url(#SVGID_246_);}
+	.st400{fill:url(#SVGID_247_);}
+	.st401{fill:url(#SVGID_248_);}
+	.st402{fill:url(#SVGID_249_);}
+	.st403{fill:url(#SVGID_250_);}
+	.st404{fill:url(#SVGID_251_);}
+	.st405{fill:url(#SVGID_252_);}
+	.st406{fill:url(#SVGID_253_);}
+	.st407{fill:url(#SVGID_254_);}
+	.st408{fill:url(#SVGID_255_);}
+	.st409{fill:url(#SVGID_256_);}
+	.st410{fill:url(#SVGID_257_);}
+	.st411{fill:url(#SVGID_258_);}
+	.st412{fill:url(#SVGID_259_);}
+	.st413{fill:url(#SVGID_260_);}
+	.st414{fill:url(#SVGID_261_);}
+	.st415{fill:url(#SVGID_262_);}
+	.st416{fill:url(#SVGID_263_);}
+	.st417{fill:url(#SVGID_264_);}
+	.st418{fill:url(#SVGID_265_);}
+	.st419{fill:url(#SVGID_266_);}
+	.st420{fill:url(#SVGID_267_);}
+	.st421{fill:url(#SVGID_268_);}
+	.st422{fill:url(#SVGID_269_);}
+	.st423{fill:url(#SVGID_270_);}
+	.st424{fill:url(#SVGID_271_);}
+	.st425{fill:url(#SVGID_272_);}
+	.st426{fill:url(#SVGID_273_);}
+	.st427{fill:url(#SVGID_274_);}
+	.st428{fill:url(#SVGID_275_);}
+	.st429{fill:url(#SVGID_276_);}
+	.st430{fill:url(#SVGID_277_);}
+	.st431{fill:url(#SVGID_278_);}
+	.st432{fill:url(#SVGID_279_);}
+	.st433{fill:url(#SVGID_280_);}
+	.st434{fill:url(#SVGID_281_);}
+	.st435{fill:url(#SVGID_282_);}
+	.st436{fill:url(#SVGID_283_);}
+	.st437{fill:url(#SVGID_284_);}
+	.st438{fill:url(#SVGID_285_);}
+	.st439{fill:url(#SVGID_286_);}
+	.st440{fill:url(#SVGID_287_);}
+	.st441{fill:url(#SVGID_288_);}
+	.st442{fill:url(#SVGID_289_);}
+	.st443{fill:url(#SVGID_290_);}
+	.st444{fill:url(#SVGID_291_);}
+	.st445{fill:url(#SVGID_292_);}
+	.st446{fill:url(#SVGID_293_);}
+	.st447{fill:url(#SVGID_294_);}
+	.st448{fill:url(#SVGID_295_);}
+	.st449{fill:url(#SVGID_296_);}
+	.st450{fill:url(#SVGID_297_);}
+	.st451{fill:url(#SVGID_298_);}
+	.st452{fill:url(#SVGID_299_);}
+	.st453{fill:url(#SVGID_300_);}
+	.st454{fill:url(#SVGID_301_);}
+	.st455{fill:url(#SVGID_302_);}
+	.st456{fill:url(#SVGID_303_);}
+	.st457{fill:url(#SVGID_304_);}
+	.st458{fill:url(#SVGID_305_);}
+	.st459{fill:url(#SVGID_306_);}
+	.st460{fill:url(#SVGID_307_);}
+	.st461{fill:url(#SVGID_308_);}
+	.st462{fill:url(#SVGID_309_);}
+	.st463{fill:url(#SVGID_310_);}
+	.st464{fill:url(#SVGID_311_);}
+	.st465{fill:url(#SVGID_312_);}
+	.st466{fill:url(#SVGID_313_);}
+	.st467{fill:url(#SVGID_314_);}
+	.st468{fill:url(#SVGID_315_);}
+	.st469{fill:url(#SVGID_316_);}
+	.st470{fill:url(#SVGID_317_);}
+	.st471{fill:url(#SVGID_318_);}
+	.st472{fill:url(#SVGID_319_);}
+	.st473{fill:url(#SVGID_320_);}
+	.st474{fill:url(#SVGID_321_);}
+	.st475{fill:url(#SVGID_322_);}
+	.st476{fill:url(#SVGID_323_);}
+	.st477{fill:url(#SVGID_324_);}
+	.st478{fill:url(#SVGID_325_);}
+	.st479{fill:url(#SVGID_326_);}
+	.st480{fill:url(#SVGID_327_);}
+	.st481{fill:url(#SVGID_328_);}
+	.st482{fill:url(#SVGID_329_);}
+	.st483{fill:url(#SVGID_330_);}
+	.st484{fill:url(#SVGID_331_);}
+	.st485{fill:url(#SVGID_332_);}
+	.st486{fill:url(#SVGID_333_);}
+	.st487{fill:url(#SVGID_334_);}
+	.st488{fill:url(#SVGID_335_);}
+	.st489{fill:url(#SVGID_336_);}
+	.st490{fill:url(#SVGID_337_);}
+	.st491{fill:url(#SVGID_338_);}
+	.st492{fill:url(#SVGID_339_);}
+	.st493{fill:url(#SVGID_340_);}
+	.st494{fill:url(#SVGID_341_);}
+	.st495{fill:url(#SVGID_342_);}
+	.st496{fill:url(#SVGID_343_);}
+	.st497{fill:url(#SVGID_344_);}
+	.st498{fill:url(#SVGID_345_);}
+	.st499{fill:url(#SVGID_346_);}
+	.st500{fill:url(#SVGID_347_);}
+	.st501{fill:url(#SVGID_348_);}
+	.st502{fill:url(#SVGID_349_);}
+	.st503{fill:url(#SVGID_350_);}
+	.st504{fill:url(#SVGID_351_);}
+	.st505{fill:url(#SVGID_352_);}
+	.st506{fill:url(#SVGID_353_);}
+	.st507{fill:url(#SVGID_354_);}
+	.st508{fill:url(#SVGID_355_);}
+	.st509{fill:url(#SVGID_356_);}
+	.st510{fill:url(#SVGID_357_);}
+	.st511{fill:url(#SVGID_358_);}
+	.st512{fill:url(#SVGID_359_);}
+	.st513{fill:url(#SVGID_360_);}
+	.st514{fill:url(#SVGID_361_);}
+	.st515{fill:url(#SVGID_362_);}
+	.st516{fill:url(#SVGID_363_);}
+	.st517{fill:url(#SVGID_364_);}
+	.st518{fill:url(#SVGID_365_);}
+	.st519{fill:url(#SVGID_366_);}
+	.st520{fill:url(#SVGID_367_);}
+	.st521{fill:url(#SVGID_368_);}
+	.st522{fill:url(#SVGID_369_);}
+	.st523{fill:url(#SVGID_370_);}
+	.st524{fill:url(#SVGID_371_);}
+	.st525{fill:url(#SVGID_372_);}
+	.st526{fill:url(#SVGID_373_);}
+	.st527{fill:url(#SVGID_374_);}
+	.st528{fill:url(#SVGID_375_);}
+	.st529{fill:url(#SVGID_376_);}
+	.st530{fill:url(#SVGID_377_);}
+	.st531{clip-path:url(#SVGID_379_);}
+	.st532{clip-path:url(#SVGID_381_);}
+	.st533{fill:#F4F0A6;}
+	.st534{clip-path:url(#SVGID_383_);}
+	.st535{opacity:0.6;fill:none;stroke:#F7CFA2;stroke-miterlimit:10;}
+	.st536{fill:none;stroke:#F7CFA2;stroke-miterlimit:10;}
+	.st537{fill:#EAA56C;}
+	.st538{clip-path:url(#SVGID_385_);fill:#F7EFDF;}
+</style>
+<g id="Layer_1">
+	<rect x="25.4" y="303.3" class="st29" width="260.5" height="54"/>
+	<path class="st18" d="M766.8,149.2H654.6c-3.2,0-5.8-2.6-5.8-5.8v-27.7c0-3.2,2.6-5.8,5.8-5.8h112.3c3.2,0,5.8,2.6,5.8,5.8v27.7
+		C772.7,146.5,770.1,149.2,766.8,149.2z"/>
+	<rect x="670.5" y="120" class="st19" width="81.9" height="28.3"/>
+	<text transform="matrix(1 0 0 1 689.4893 137.3333)" class="st10 st30 st31">Listo</text>
+	<rect x="807.7" y="1.1" class="st26" width="33.4" height="549.2"/>
+	<g>
+		<rect x="807.7" y="0.9" class="st26" width="33.4" height="36"/>
+		<polygon class="st27" points="824.9,12 835,22.2 814.8,22.2 		"/>
+	</g>
+	<g>
+		<rect x="807.7" y="549.6" class="st26" width="33.4" height="36"/>
+		<polygon class="st27" points="823.9,574.5 813.8,564.4 834,564.4 		"/>
+	</g>
+	<rect x="34.9" y="28.9" class="st19" width="391.9" height="48.3"/>
+	<text transform="matrix(1 0 0 1 34.8918 47.637)" class="st20 st32 st31">HOla, Kaira POlet ARAYA</text>
+	<rect x="34.9" y="72.9" class="st19" width="391.9" height="48.3"/>
+	<text transform="matrix(1 0 0 1 34.8918 90.2073)" class="st20 st30 st31">Instrucciones</text>
+	<polyline class="st19" points="686.8,16.9 684.4,65.2 294.9,65.2 	"/>
+	<rect x="34.1" y="116.4" class="st19" width="541.9" height="88.3"/>
+	<text transform="matrix(1 0 0 1 34.136 131.0462)"><tspan x="0" y="0" class="st20 st30 st33">Tómate tu tiempo para pensar cada respuesta, pensando en tus </tspan><tspan x="0" y="26.4" class="st20 st30 st33">compañeros/as de curso y selecciona</tspan><tspan x="311.5" y="26.4" class="st34 st30 st33"> 2, 3, 4 o 5 con los cuales </tspan><tspan x="0" y="52.8" class="st34 st30 st33">más te gustaria juntarte.</tspan></text>
+	<rect x="653.9" y="333.9" class="st19" width="81.9" height="28.3"/>
+	<text transform="matrix(1 0 0 1 653.8918 351.2072)" class="st10 st30 st31">Inscribir</text>
+	<rect x="45.1" y="243.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="94.9" y="247.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 94.8918 260.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="315.1" y="243.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="364.9" y="247.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 364.8918 260.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="555.1" y="243.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="604.9" y="247.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 604.8918 260.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="45.1" y="316.4" class="st37" width="35" height="31.8"/>
+	<g>
+		<rect x="94.9" y="321.3" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 94.8918 333.8854)" class="st10 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="315.1" y="316.4" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="364.9" y="321.3" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 364.8918 333.8854)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="555.1" y="316.4" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="604.9" y="321.3" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 604.8918 333.8854)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="45.1" y="389.8" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="94.9" y="394.6" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 94.8918 407.2184)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="315.1" y="389.8" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="364.9" y="394.6" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 364.8918 407.2184)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="555.1" y="389.8" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="604.9" y="394.6" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 604.8918 407.2184)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="45.1" y="463.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="94.9" y="467.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 94.8918 480.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="315.1" y="463.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="364.9" y="467.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 364.8918 480.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="555.1" y="463.1" class="st35" width="35" height="31.8"/>
+	<g>
+		<rect x="604.9" y="467.9" class="st19" width="191.9" height="48.3"/>
+		<text transform="matrix(1 0 0 1 604.8918 480.5519)" class="st20 st30 st36">Cristóbal Antonio Ramos</text>
+	</g>
+	<rect x="653.9" y="387.9" class="st19" width="81.9" height="28.3"/>
+	<text transform="matrix(1 0 0 1 672.8792 405.2072)" class="st10 st30 st31">Listo</text>
+	<g sketch:type="MSPage">
+		<g>
+			<g sketch:type="MSArtboardGroup">
+				<path sketch:type="MSShapeGroup" class="st10" d="M60.7,334.7l-3.5-3.5l-2,2l5.5,5.5l9.5-9.5l-2-2L60.7,334.7z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
