@@ -1,5 +1,5 @@
 @font-face{ 
-	font-family: 'bungee';
+	font-family: 'Bungee-Regular';
 	src: url('WebFont.eot');
 	src: url('WebFont.eot?iefix') format('eot'),
 	     url('WebFont.woff') format('woff'),
@@ -7,10 +7,19 @@
 	     url('WebFont.svg#webfont') format('svg');
 }
 
+@font-face{ 
+	font-family: 'ElegantLux-Mager';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?iefix') format('eot'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}
 
 .splash {
 	background-color: #F2C85F;
 }
+
 .ques1 {}
 .ques2 {}
 .jue1	{}
@@ -587,4 +596,28 @@ body {
 	.splash536{clip-path:url(#SVGID_385_);fill:#F7EFDF;}
 
 
+
+	.list0{fill:#6BA8B2;}
+	.list1{fill:#F7CFA2;}
+	.list2{fill:#F0BA7A;}
+	.list3{fill:#BBE8F2;}
+	.list4{opacity:0.3;fill:#F2F8F9;enable-background:new    ;}
+	.list5{opacity:0.2;fill:#601515;enable-background:new    ;}
+	.list6{fill:none;}
+	.list7{fill:#FFFF00;}
+	.list8{fill:#594EEA;}
+	.list9{fill:#3FBA51;}
+	.list10{fill:#FF0B0B;}
+	.list11{fill:#FFFFFF;}
+	.list12{fill:#601515;}
+	.list13{fill:#F9F9F9;}
+	.list14{fill:none;stroke:#3FBA51;stroke-width:8;stroke-miterlimit:10;}
+	.list15{fill:#EA6D50;}
+	.list16{opacity:0.2;enable-background:new    ;}
+	.list17{enable-background:new    ;}
+	.list18{font-family:'Bungee-Regular';}
+	.list19{font-size:26px;}
+	.list20{font-family:'ElegantLux-Mager';}
+	.list21{fill:none;stroke:#3FBA51;stroke-width:7.2;stroke-miterlimit:10;}
+	.list22{fill:none;stroke:#3FBA51;stroke-width:7.2;stroke-linecap:round;stroke-miterlimit:10;}
 
