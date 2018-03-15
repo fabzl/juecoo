@@ -73,9 +73,21 @@
 .ques2 {}
 .jue1	{}
 .jue2	{}
-.adv1	{}
-.adv2	{}
-.adv3	{}
+
+
+.adv1	{
+	background-color: #f2c85f;
+}
+
+.adv2	{
+	background-color: #eaa56c;
+}
+
+.adv3	{	
+	background-color: #e86767;
+}
+
+
 .fin	{}
 
 
