@@ -1,24 +1,19 @@
 @font-face{ 
 	font-family: 'Bungee-Regular';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?iefix') format('eot'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+	src: url('fonts/Bungee-Regular-webfont.woff') format('woff');
 }
 
 @font-face{ 
 	font-family: 'ElegantLux-Mager';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?iefix') format('eot'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+src: url('fonts/ElegantLux-Mager.woff') format('woff');
+
 }
+
 
 .splash {
 	background-color: #F2C85F;
 }
+
 
 .ques1 {}
 .ques2 {}

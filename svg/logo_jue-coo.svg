@@ -1,13 +1,4 @@
-<html>
-	<head>
-
-	</head>
-	<body>
-		<link rel="stylesheet" type="text/css" href="style.css">
-	</body>
-
-	<div class="splash container">
-		<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illulistrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 157.3" style="enable-background:new 0 0 792 157.3;" xml:space="preserve">
@@ -196,12 +187,10 @@
 				<polyline class="list22" points="201.4,49.9 192.6,48.8 190,51.4 				"/>
 			</g>
 		</g>
-
+		
 			<use xlink:href="#logo"  width="672.4" height="268.6" id="XMLID_1_" x="-336.2" y="-134.3" transform="matrix(0.3239 0 0 -0.3239 181.9537 68.5955)" style="overflow:visible;"/>
 	</g>
 </g>
-
+<g id="Layer_2">
+</g>
 </svg>
-
-	</div>
-</html>
