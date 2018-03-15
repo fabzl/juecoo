@@ -1,19 +1,73 @@
-@font-face{ 
-	font-family: 'Bungee-Regular';
-	src: url('fonts/Bungee-Regular-webfont.woff') format('woff');
-}
-
-@font-face{ 
-	font-family: 'ElegantLux-Mager';
-src: url('fonts/ElegantLux-Mager.woff') format('woff');
-
-}
 
 
 .splash {
 	background-color: #F2C85F;
+	justify-content: center;
+
 }
 
+.list {
+	flex-direction: column;
+}
+
+.ul-alumnos {
+
+	padding: 0 3rem;
+}
+.li-alumnos {
+
+	list-style: none;
+	user-select: none;
+	border-top: 1px solid  #601515;
+	padding:  2rem;
+	font-size: 1.5rem;
+	justify-content: space-between;
+	cursor: pointer;
+	display: flex;
+}
+.li-alumnos.a {
+	width: 100%;
+	display: flex;
+}
+
+.li-alumnos.listo {
+
+	background-color: #3fba51;
+	color: #FFF;
+
+}
+.inner-alumnos-btn.listo {
+	background-color: transparent;
+	border: 1px solid #FFF;
+}
+
+.inner-alumnos-btn {
+
+	-moz-border-radius: 4px / 4px;
+	-webkit-border-radius: 4px 4px;
+	border-radius: 4px / 4px; 
+	color:#FFF;
+	background-color: #795acc;
+	min-width: 200px;
+	max-width: 300px;
+	padding:0.5rem 1rem;
+	text-align: center;
+}
+
+.li-alumnos::hover {
+
+	background-color: #3fba51;
+}
+
+
+.full-width {
+	width :100vw;
+}
+
+
+.full-heigth {
+	height :100vh;
+}
 
 .ques1 {}
 .ques2 {}
@@ -26,13 +80,11 @@ src: url('fonts/ElegantLux-Mager.woff') format('woff');
 
 
 .container {
-	background-color: #FFF;
 	margin:	 0;
 	padding: 0;
 	width: 	100vw;
 	height:	100vh;
 	display: flex;
-	justify-content: center;
 }
 
 .splash-ilust {
@@ -40,11 +92,26 @@ src: url('fonts/ElegantLux-Mager.woff') format('woff');
     height: 100%;
 }
 
+
+
+
 body {
 	margin: 0;
 	padding:0;
+	font-family: 'ElegantLux-Mager';
+	color: #601515;
 }
 
+@font-face{ 
+	font-family: 'Bungee-Regular';
+	src: url('fonts/Bungee-Regular-webfont.woff') format('woff');
+}
+
+@font-face{ 
+	font-family: 'ElegantLux-Mager';
+	src: url('fonts/ElegantLux-Mager.woff') format('woff');
+
+}
 
 
 
