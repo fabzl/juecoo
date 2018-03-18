@@ -21,9 +21,9 @@ ul {
 
 
 
-/* end only demo styles */
+/* pregunta 1 styles */
 
-.checkbox-custom, .radio-custom {
+.checkbox-custom, .radio-custom, .box-custom {
     opacity: 0;
     position: absolute;
 
@@ -78,9 +78,51 @@ ul {
 
 }
 
-.checkbox-custom:focus + .checkbox-custom-label, .radio-custom:focus + .radio-custom-label {
+.radio-custom:focus + .radio-custom-label {
  	background-color:#3fba51;
  	color:#FFF; 
+}
+
+
+/* pregunta 2 styles */
+.box {
+	display: flex;
+	border: 1px solid #601515;
+	margin: 1rem;
+	align-items: baseline;
+
+}
+
+
+.box-custom-label{
+	
+	text-align: center;
+	margin: 2rem;
+	align-self: flex-end;
+
+}
+
+
+.box-01 {
+	height: 0.5rem;
+	margin-top: 3.5rem;
+}
+
+.box-02 {
+	height: 2rem;
+	margin-top: 2rem;
+
+}
+
+.box-03 {
+	height: 3rem;
+	margin-top: 1rem;
+}
+
+.box-04 {
+	height: 4rem;
+	margin-top: 0rem;
+
 }
 
 
