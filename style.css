@@ -127,6 +127,22 @@ ul {
 
 
 
+.frecuency-container {
+	width:60vw;
+	flex-direction: row;
+	align-items:baseline;
+}
+
+.ilust-container {
+	width:40vw;
+}
+
+.body-juego1 {
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+}
+
 .alumnos-container {
 	width:100vw;
 	flex-direction: row;
