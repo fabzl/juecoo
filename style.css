@@ -1,3 +1,29 @@
+
+.sidebar.inner-btn
+
+
+.remaining-balls {
+	position: relative;
+}
+
+.total-balls-bg {
+	position: absolute;
+	display: flex;
+	transform: scale(3);
+	top:0;
+}
+.total-balls-number {
+	z-index: 3;
+	font-size: 2.4rem;
+	font-family: "Bungee-Regular";
+	color: #e0ea18;
+	white-space: nowrap;
+	user-select: none;
+	width: 100%;
+	text-align: center;
+
+}
+
 .sidebar-text {
 
 	font-size: 1.4rem;
@@ -17,9 +43,12 @@
 
 .over-elements {
 	position: absolute;
-	top:50%;
-	left:50%;
+	top:0%;
+	left:0%;
 	z-index: 1;
+		height: 100vh;
+	width:  100vw;
+
 }
 
 .machine {
@@ -33,13 +62,23 @@
 	max-width: 10vw;
 	font-size: 1.7rem;
 	position: absolute;
-	transform: translateX(100%) translateY(-100%);
+	/*transform: translateX(100%) translateY(-100%);*/
 
 }
 
-.pozo-name .p01 {
-	transform: translateX(-40%) translateY(-40%);
+.pozo-name.p01 {
+		transform:translateX(320%) translateY(190%);
+}
 
+.pozo-name.p02 {
+		transform: translateX(-235%) translateY(30%);
+}
+
+.pozo-name.p03 {
+		transform: translateX(15%) translateY(105%);
+}
+.pozo-name.p04 {
+		transform: translateX(10%) translateY(-280%);
 }
 
 
@@ -67,7 +106,7 @@ h2 {
 
 ul {
 	list-style-type: none;
-	display: inline-flex;
+	/*display: inline-flex;*/
 }
 
 
@@ -174,6 +213,7 @@ ul {
 .box-03 {
 	height: 3rem;
 	margin-top: 1rem;
+
 }
 
 .box-04 {
