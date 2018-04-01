@@ -79,6 +79,13 @@
 
 }
 
+.advertencia {
+	bottom:0;
+	height: auto;
+	width:  100vw;
+	position: absolute;
+}
+
 .machine {
 	height: 100vh;
 	width:  100vw;
@@ -284,6 +291,9 @@ ul {
 	flex-wrap: wrap; 
 }
 
+.alumnos-container ul {
+	display: inline-flex!important;
+}
 
 .instrucciones-player {
 	font-size: 2rem;
