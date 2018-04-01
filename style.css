@@ -79,9 +79,23 @@
 
 }
 
+.resultado {
+	bottom:0;
+	right:0;
+	height: auto;
+	width:  50vw;
+	position: absolute;
+}
+
 .advertencia {
 	bottom:0;
 	height: auto;
+	width:  100vw;
+	position: absolute;
+}
+
+.intro {
+	height: 100vh;
 	width:  100vw;
 	position: absolute;
 }
@@ -335,6 +349,27 @@ ul {
 }
 
 
+.header-resultados {
+
+	flex-direction: column;
+	flex-wrap: nowrap;
+	display: flex;
+	width: 92vw;
+}
+
+
+.button-wrapper {
+	width:300px;
+	display: inline-block;
+	margin-top: 3rem;
+}
+.button-wrapper .inner-btn {
+	min-width: 500px;
+	max-width: none;
+	padding:1rem 6rem;
+
+
+}
 
 .splash {
 	background-color: #F2C85F;
